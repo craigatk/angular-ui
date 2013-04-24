@@ -9,6 +9,7 @@
     "url": "git://github.com/angular-ui/angular-ui.git"
   },
   "main": "./build/angular-ui.min.js",
+  "ignore": "test",
   "dependencies": {
     "jquery": ">= 1.8.0",
     "angular": ">= 1.0.2"
